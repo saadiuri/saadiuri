@@ -21,7 +21,7 @@
 
 ### 🌍 Connect With Me:
 <div align="center">
-  <a href="www.linkedin.com/in/iuri-saad-aa0a58299" target="_blank">
+  <a href="www.linkedin.com/in/iuri-saad-aa0a58299/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" />
   </a>
   <a href="mailto:saadiuri845@gmail.com" target="_blank">
