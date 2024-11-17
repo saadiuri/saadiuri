@@ -6,8 +6,6 @@
 
 [![Iuri Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saadiuri&bg_color=0d1117&color=ffffff&line=fffff1&point=fffff1&area=true&area_color=fffff1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
 <div align="center">
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=saadiuri&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_color=ffffff" height="150" />
