@@ -15,17 +15,11 @@
   <img src="https://streak-stats.demolab.com?user=saadiuri&theme=dark&hide_border=false&border_color=ffffff" height="150" />
 </div>
 
----
-
 ### 🌍 Connect With Me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/iuri-saad-aa0a58299/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" />
-  </a>
-  <a href="mailto:saadiuri845@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" />
-  </a>
-</div>
+<div align="center">  
+<a href = "mailto:saadiuri845@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=F8F8F2" target="_blank"></a>
+<a href="https://www.linkedin.com/in/iuri-saad-aa0a58299/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=F8F8F2" target="_blank"></a>
+</div> 
 
 ---
 
