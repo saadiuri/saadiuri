@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Welcome!&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=30&desc=&descAlignY=50" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Iuri+Saad+Furtunato+Fialho!;I+study+Computer+Science++at+PUC+Minas;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Iuri+Saad!;I+study+Computer+Science++at+PUC+Minas;Welcome+to+my+GitHub+profile!" />
 </div>
 
 [![Iuri Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saadiuri&bg_color=0d1117&color=ffffff&line=fffff1&point=fffff1&area=true&area_color=fffff1&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
