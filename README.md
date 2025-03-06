@@ -11,9 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=saadiuri&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_color=ffffff" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadiuri&layout=compact&langs_count=6&theme=dark&hide_border=false&border_color=ffffff" height="150" />
 </div>
-<div>
+<!--<div>
   <img src="https://streak-stats.demolab.com?user=saadiuri&theme=dark&hide_border=false&border_color=ffffff" height="150" />
-</div>
+</div>-->
 
 ### 🌍 Connect With Me:
 <div align="center">  
