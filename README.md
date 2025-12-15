@@ -51,10 +51,5 @@
 
 ---
 
-<div align="center">
-  <br><p><b>Visitors Count</b></p>  
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fsaadiuri&s=50&c=ffffff&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
 
