@@ -4,10 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Iuri+Saad!;I+study+Computer+Science++at+PUC+Minas;Welcome+to+my+GitHub+profile!" />
 </div>
 
-<div align="center">
- <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=saadiuri&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&border_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saadiuri&layout=compact&langs_count=6&theme=dark&hide_border=false&border_color=ffffff" height="150" />
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
+
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadiuri&theme=tokyonight"
+    style="border: 1px solid #ffffff; border-radius: 10px;"
+  />
+
+  <img
+    height="180"
+    src="https://streak-stats.demolab.com?user=saadiuri&theme=tokyonight&hide_border=true"
+    style="border: 1px solid #ffffff; border-radius: 10px;"
+  />
+
 </div>
 <!--<div>
   <img src="https://streak-stats.demolab.com?user=saadiuri&theme=dark&hide_border=false&border_color=ffffff" height="150" />
